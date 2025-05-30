@@ -53,3 +53,11 @@ The notebook includes plots that:
 ## 📚 Summary
 
 Rejection sampling is a versatile method for **simulating from intractable distributions**. It is especially useful when exact sampling is impossible, but function evaluation is accessible. Though sometimes inefficient, it serves as a **baseline technique** in Monte Carlo methods.
+
+---
+
+## 👤 Author
+
+👨‍💻 Guillaume Routier  
+🎓 MSc Probabilité & Finance – École Polytechnique & Sorbonne Université  
+📬 [Contact me on LinkedIn](https://www.linkedin.com/in/guillaume-routier/)
