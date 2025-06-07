@@ -1,10 +1,10 @@
-# 🎯 Rejection Sampling Method
+# Rejection Sampling Method
 
 This notebook illustrates the **Rejection Sampling Method**, a fundamental technique in probabilistic simulations used to sample from complex distributions by leveraging a simpler proposal distribution.
 
 ---
 
-## 🧠 Core Idea
+## Core Idea
 
 Rejection sampling allows us to generate random samples from a target distribution `f(x)` by:
 
@@ -19,7 +19,7 @@ This method is powerful when **direct sampling from `f(x)` is difficult**, but e
 
 ---
 
-## 📌 Implementation Steps
+## Implementation Steps
 
 - Define the **target density function** `f(x)` (e.g., a truncated normal).
 - Choose a **proposal distribution** `g(x)` that is:
@@ -32,7 +32,7 @@ This method is powerful when **direct sampling from `f(x)` is difficult**, but e
 
 ---
 
-## 📊 Visuals
+## Visuals
 
 The notebook includes plots that:
 
@@ -42,7 +42,7 @@ The notebook includes plots that:
 
 ---
 
-## ✅ Applications
+## Applications
 
 - Bayesian Inference
 - Simulating rare events
@@ -50,14 +50,14 @@ The notebook includes plots that:
 
 ---
 
-## 📚 Summary
+## Summary
 
 Rejection sampling is a versatile method for **simulating from intractable distributions**. It is especially useful when exact sampling is impossible, but function evaluation is accessible. Though sometimes inefficient, it serves as a **baseline technique** in Monte Carlo methods.
 
 ---
 
-## 👤 Author
+## Author
 
-👨‍💻 Guillaume Routier  
-🎓 MSc Probabilité & Finance – École Polytechnique & Sorbonne Université  
-📬 [Contact me on LinkedIn](https://www.linkedin.com/in/guillaume-routier/)
+Guillaume Routier  
+MSc Probabilité & Finance – École Polytechnique & Sorbonne Université  
+[Contact me on LinkedIn](https://www.linkedin.com/in/guillaume-routier/)
